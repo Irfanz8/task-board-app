@@ -4,6 +4,11 @@ A simple Kanban board built with **Next.js**, **Redux Toolkit**, and **Tailwind 
 
 ---
 
+🌐 **Live Demo:**  
+[http://task-board-app-opal.vercel.app/](http://task-board-app-opal.vercel.app/)
+
+---
+
 ## 🚀 Setup Instructions
 
 1. **Clone & Install**
